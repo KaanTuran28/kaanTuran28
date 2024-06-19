@@ -26,7 +26,7 @@ jobs:
 
       # Generates the snake
       - name: Generate Snake GIF
-        uses: Platane/snk@v2.1.0
+        uses: Platane/snk@v2.2.0
         with:
           github_user_name: KaanTuran28
           outputs: dist
