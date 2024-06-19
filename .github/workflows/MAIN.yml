@@ -24,7 +24,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Generates the snake  
+      # Debug step to check if GITHUB_TOKEN is set
+      - name: Check GITHUB_TOKEN
+        run: echo ${{ secrets.GITHUB_TOKEN }}
+
+      # Generates the snake
       - name: Generate Snake GIF
         uses: Platane/snk@v2
         with:
