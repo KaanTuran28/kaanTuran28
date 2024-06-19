@@ -22,20 +22,14 @@ jobs:
     steps:
       # Checks repo under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
-        uses: actions/checkout@v2
-
-      # Debug step to check if GITHUB_TOKEN is set
-      - name: Check GITHUB_TOKEN
-        run: echo ${{ secrets.GITHUB_TOKEN }}
+        uses: actions/checkout@v3
 
       # Generates the snake
       - name: Generate Snake GIF
-        uses: Platane/snk@v2
+        uses: Platane/snk@v2.1.0
         with:
           github_user_name: KaanTuran28
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: dist
 
       # Show the status of the build. Makes it easier for debugging (if there's any issues).
       - name: Show git status
@@ -50,7 +44,7 @@ jobs:
           force: true
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3.9.3
         with:
           # the output branch we mentioned above
           publish_branch: output
