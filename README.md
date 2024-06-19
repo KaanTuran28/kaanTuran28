@@ -22,3 +22,8 @@ I'm Kaan, a software developer who is passionate about software development and 
 [![](https://visitcount.itsvg.in/api?id=KaanTuran28&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## Snake Contribution Graph
+
+![Snake Game](dist/github-contribution-grid-snake.gif)
+
