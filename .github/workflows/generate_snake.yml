@@ -17,8 +17,26 @@ jobs:
         with:
           node-version: '14'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install github-contributions
+        run: npm install -g github-contributions-cli
 
-      - name: Generate Snake
-        run: node generate_snake.js
+      - name: Generate Snake Contribution Graph
+        run: github-contributions -u your_github_username -o dist/github-contribution-grid-snake.gif
+
+      - name: Show git status
+        run: git status
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+          force: true
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3.9.3
+        with:
+          publish_branch: output
+          publish_dir: ./dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
