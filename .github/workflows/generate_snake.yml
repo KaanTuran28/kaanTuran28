@@ -21,7 +21,7 @@ jobs:
         run: npm install -g github-contributions-cli
 
       - name: Generate Snake Contribution Graph
-        run: github-contributions -u your_github_username -o dist/github-contribution-grid-snake.gif
+        run: github-contributions -u KaanTuran28 -o dist/github-contribution-grid-snake.gif
 
       - name: Show git status
         run: git status
@@ -30,7 +30,7 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - name: Deploy to GitHub Pages
