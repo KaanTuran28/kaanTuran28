@@ -28,7 +28,7 @@ jobs:
       - name: Generate Snake GIF
         uses: Platane/snk@v2
         with:
-          github_user_name: your_github_username
+          github_user_name: KaanTuran28
           outputs: dist
           
       # Show the status of the build. Makes it easier for debugging (if there's any issues).
