@@ -23,7 +23,4 @@ I'm Kaan, a software developer who is passionate about software development and 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Snake Contribution Graph
-
-![Snake Game](dist/github-contribution-grid-snake.gif)
 
