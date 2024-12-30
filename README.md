@@ -1,5 +1,6 @@
 # 💫 About Me:
-As a knowledgeable student in cybersecurity and software, I specialize in penetration testing. With a quick learning ability, strong analytical thinking, and a collaborative team approach, I develop secure and innovative software solutions. By staying updated on technological advancements, I continually enhance my skills and offer creative solutions to complex challenges.
+
+As a student developing myself in the fields of cybersecurity and software, I aim to specialize particularly in penetration testing. With skills such as quick learning, analytical thinking, and a strong aptitude for teamwork, I focus on creating secure, effective, and innovative software solutions. By closely following technological advancements, I strive to continuously enhance my knowledge and skills, addressing challenges with solution-oriented and creative approaches. With an open-minded attitude towards learning, I aim to contribute value both individually and as part of a team.
 
 
 ## 🌐 Socials:
