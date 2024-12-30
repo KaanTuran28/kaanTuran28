@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kaan, a software developer who is passionate about software development and cyber security. By focusing on continuous learning and self-improvement, I aim to produce innovative solutions in my projects.
+As a knowledgeable student in cybersecurity and software, I specialize in penetration testing. With a quick learning ability, strong analytical thinking, and a collaborative team approach, I develop secure and innovative software solutions. By staying updated on technological advancements, I continually enhance my skills and offer creative solutions to complex challenges.
 
 
 ## 🌐 Socials:
