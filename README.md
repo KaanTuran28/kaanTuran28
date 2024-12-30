@@ -24,6 +24,6 @@ As a knowledgeable student in cybersecurity and software, I specialize in penetr
 ---
 [![](https://visitcount.itsvg.in/api?id=KaanTuran28&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/KaanTuran28/KaanTuran28/blob/output/github-snake-dark.svg)
 
 
