@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-As a student developing myself in the fields of cybersecurity and software, I aim to specialize particularly in penetration testing. With skills such as quick learning, analytical thinking, and a strong aptitude for teamwork, I focus on creating secure, effective, and innovative software solutions. By closely following technological advancements, I strive to continuously enhance my knowledge and skills, addressing challenges with solution-oriented and creative approaches. With an open-minded attitude towards learning, I aim to contribute value both individually and as part of a team.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus, vivamus suscipit tortor eget felis porttitor volutpat.
 
 
 ## 🌐 Socials:
