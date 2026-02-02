@@ -1,47 +1,47 @@
 name: GitHub Snake Game
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
+  # Her gece gece yarısı otomatik çalışır
   schedule:
     - cron: "0 0 * * *"
 
-  # Allow manual triggering of the workflow
+  # Manuel olarak başlatmaya izin verir
   workflow_dispatch:
 
-  # Trigger the workflow on pushes to the main branch
+  # Main branch'ine bir push yapıldığında çalışır
   push:
     branches:
       - main
 
 jobs:
   generate:
+    permissions: 
+      contents: write  # Dosyaları branch'e yazabilmek için bu izin kritik
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      # Step 1: Checkout the repository
+      # Step 1: Depoyu kontrol et
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 1  # Fetch only the latest commit for faster execution
 
-      # Step 2: Generate the snake animations
+      # Step 2: Yılan animasyonlarını oluştur
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Automatically fetch repository owner
-          outputs: |  # Output files for light and dark themes
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Deploy the generated files to the 'output' branch
+      # Step 3: Oluşturulan dosyaları 'output' branch'ine yükle
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist  # Directory containing the generated files
-          publish_branch: output  # Target branch for deployment
-          commit_message: "Update GitHub Snake animation [skip ci]"  # Clear and descriptive commit message
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update GitHub Snake animation [skip ci]"
