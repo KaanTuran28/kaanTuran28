@@ -18,9 +18,9 @@ Repositories may include tools, proofs of concept, learning notes, and practice 
 ---
 
 ## 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](#)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/KaanTuran28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KaanTuran28)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@KaanTuran28)
 
 ---
 
@@ -51,24 +51,33 @@ Repositories may include tools, proofs of concept, learning notes, and practice 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&theme=radical&hide_border=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaanTuran28&theme=radical&hide_border=true&show_icons=true" alt="Kaan Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaanTuran28&theme=radical&hide_border=true" alt="Kaan Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanTuran28&layout=compact&theme=radical&hide_border=true" alt="Kaan Languages" />
 </p>
 
 ---
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
 
 ---
 
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-snake-dark.svg)
+### 🐍 Snake Contribution Map
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KaanTuran28/KaanTuran28/output/github-snake-dark.svg" alt="Snake" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=USERNAME&icon=2&color=12)](https://visitcount.itsvg.in)
+<p align="right">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=KaanTuran28&icon=2&color=12" alt="Visitor Count" />
+  </a>
+</p>
