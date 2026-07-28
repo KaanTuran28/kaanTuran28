@@ -1,72 +1,95 @@
-# 👋 Welcome
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=00F0FF&background=0D1117&center=false&vCenter=true&width=700&height=45&lines=whoami;Kaan+Turan+-+Blue+Team+%2F+Network+Security;Building+a+SaaS+platform+-+Next.js%2C+Supabase;Next+stop%3A+AI+Security" alt="Typing SVG" />
+</p>
 
-💻 **Software Development & Cyber Security**
-
-This profile focuses on software development, security research, automation, and experimental projects.  
-Repositories may include tools, proofs of concept, learning notes, and practice projects.
+<p align="center">
+Blue Team & network security practitioner, sharpening skills through TryHackMe and bug bounty programs.<br/>
+Currently building a SaaS product with Next.js + Supabase — long-term goal: AI Security.
+</p>
 
 ---
 
 ## 🧠 Areas of Interest
 - Application & Network Security
-- Penetration Testing Fundamentals
+- Penetration Testing Fundamentals (Red & Blue Team)
 - Malware Analysis & Reverse Engineering (Intro Level)
 - SOC Automation & Log Analysis
-- CTF & Security Challenges
+- CTF & Bug Bounty
+- AI Security (emerging focus)
 - Backend & Automation Scripts
 
 ---
 
+## 🎓 Certifications
+| Certification | Issuer |
+|---|---|
+| CAPT | Hackviser |
+| CCNA | Cisco |
+| CCST CyberOps | Cisco |
+| Pentest & Web Security | BTK Akademi |
+| SOC / Wazuh | Bilişim Academy |
+| Ethical Hacker | Udemy |
+
+---
+
 ## 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/KaanTuran28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KaanTuran28)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@KaanTuran28)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaanTuran28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-turan21)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaanturan626)
 
 ---
 
 ## 💻 Tech Stack
 
-### 🔐 Security & Tools
+### 🔐 Security & Networking
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![TOR](https://img.shields.io/badge/TOR-7E4798?style=for-the-badge&logo=tor-project&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 
-### 🧑‍💻 Programming Languages
+### 🧑‍💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🌐 Web & Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Databases & Cloud
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaanTuran28&theme=radical&hide_border=true&show_icons=true" alt="Kaan Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaanTuran28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=0A66C2&text_color=C9D1D9&border_color=30363D" alt="Kaan Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaanTuran28&theme=radical&hide_border=true" alt="Kaan Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaanTuran28&hide_border=true&background=0D1117&border=30363D&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Kaan Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanTuran28&layout=compact&theme=radical&hide_border=true" alt="Kaan Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanTuran28&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=30363D" alt="Kaan Languages" />
 </p>
 
----
-
-### ✍️ Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaanTuran28&bg_color=0D1117&color=C9D1D9&line=00F0FF&point=00F0FF&area_color=0A66C2&title_color=00F0FF&border_color=30363D&area=true&hide_border=true" alt="Kaan Activity Graph" />
 </p>
 
 ---
@@ -81,7 +104,5 @@ Repositories may include tools, proofs of concept, learning notes, and practice 
 </p>
 
 <p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=KaanTuran28&icon=2&color=12" alt="Visitor Count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=KaanTuran28&color=00F0FF&style=flat&label=Profile+Views" alt="Profile Views" />
 </p>
