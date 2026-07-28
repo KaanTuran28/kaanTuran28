@@ -73,7 +73,11 @@ Repositories may include tools, proofs of concept, learning notes, and practice 
 
 ### 🐍 Snake Contribution Map
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KaanTuran28/KaanTuran28/output/github-snake-dark.svg" alt="Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaanTuran28/KaanTuran28/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaanTuran28/KaanTuran28/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/KaanTuran28/KaanTuran28/output/github-snake.svg" alt="Snake" />
+  </picture>
 </p>
 
 <p align="right">

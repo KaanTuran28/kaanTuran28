@@ -13,9 +13,14 @@ on:
     branches:
       - main
 
+# Aynı anda birden fazla run'ın output branch'ine yarışarak yazmasını engeller
+concurrency:
+  group: snake-game
+  cancel-in-progress: true
+
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write  # Dosyaları branch'e yazabilmek için bu izin kritik
     runs-on: ubuntu-latest
     timeout-minutes: 10
@@ -23,23 +28,22 @@ jobs:
     steps:
       # Step 1: Depoyu kontrol et
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
 
-      # Step 2: Yılan animasyonlarını oluştur
+      # Step 2: Yılan animasyonlarını oluştur (açık/koyu tema, marka renkleriyle)
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg?color_snake=#0A66C2&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?color_snake=#00f0ff&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 3: Oluşturulan dosyaları 'output' branch'ine yükle
       - name: Deploy to Output Branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
