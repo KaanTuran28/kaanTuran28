@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=00F0FF&background=0D1117&center=false&vCenter=true&width=700&height=45&lines=whoami;Kaan+Turan+-+Blue+Team+%2F+Network+Security;Building+a+SaaS+platform+-+Next.js%2C+Supabase;Next+stop%3A+AI+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=00F0FF&background=0D1117&center=false&vCenter=true&width=700&height=45&lines=whoami;identity%3A+classified;access_level%3A+root;the+code+speaks%2C+not+the+bio" alt="Typing SVG" />
 </p>
 
 <p align="center">
-Blue Team & network security practitioner, sharpening skills through TryHackMe and bug bounty programs.<br/>
-Currently building a SaaS product with Next.js + Supabase — long-term goal: AI Security.
+Security-minded, code-driven — this profile stays intentionally quiet on the bio.<br/>
+The repositories below do the talking.
 </p>
 
 ---
@@ -17,25 +17,6 @@ Currently building a SaaS product with Next.js + Supabase — long-term goal: AI
 - CTF & Bug Bounty
 - AI Security (emerging focus)
 - Backend & Automation Scripts
-
----
-
-## 🎓 Certifications
-| Certification | Issuer |
-|---|---|
-| CAPT | Hackviser |
-| CCNA | Cisco |
-| CCST CyberOps | Cisco |
-| Pentest & Web Security | BTK Akademi |
-| SOC / Wazuh | Bilişim Academy |
-| Ethical Hacker | Udemy |
-
----
-
-## 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaanTuran28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-turan21)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kaanturan626)
 
 ---
 
@@ -77,19 +58,19 @@ Currently building a SaaS product with Next.js + Supabase — long-term goal: AI
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaanTuran28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=0A66C2&text_color=C9D1D9&border_color=30363D" alt="Kaan Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KaanTuran28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=0A66C2&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaanTuran28&hide_border=true&background=0D1117&border=30363D&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="Kaan Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaanTuran28&hide_border=true&background=0D1117&border=30363D&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanTuran28&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=30363D" alt="Kaan Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanTuran28&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaanTuran28&bg_color=0D1117&color=C9D1D9&line=00F0FF&point=00F0FF&area_color=0A66C2&title_color=00F0FF&border_color=30363D&area=true&hide_border=true" alt="Kaan Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaanTuran28&bg_color=0D1117&color=C9D1D9&line=00F0FF&point=00F0FF&area_color=0A66C2&title_color=00F0FF&border_color=30363D&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
