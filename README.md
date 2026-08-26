@@ -25,13 +25,18 @@ The repositories below do the talking.
 ---
 
 ## 🧠 Areas of Interest
-- Application & Network Security
-- Penetration Testing Fundamentals (Red & Blue Team)
-- Malware Analysis & Reverse Engineering (Intro Level)
-- SOC Automation & Log Analysis
-- CTF & Bug Bounty
-- AI Security (emerging focus)
-- Backend & Automation Scripts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Application_%26_Network_Security-00F0FF?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Penetration_Testing_%28Red_%26_Blue_Team%29-0A66C2?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Malware_Analysis_%26_RE_%28Intro%29-00F0FF?style=for-the-badge&logoColor=white" alt="" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC_Automation_%26_Log_Analysis-0A66C2?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/CTF_%26_Bug_Bounty-00F0FF?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/AI_Security_%28emerging_focus%29-0A66C2?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Backend_%26_Automation_Scripts-00F0FF?style=for-the-badge&logoColor=white" alt="" />
+</p>
 
 ---
 
