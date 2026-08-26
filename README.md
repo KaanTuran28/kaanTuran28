@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F0FF&height=180&section=header&animation=fadeIn" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A66C2&height=150&section=header&animation=fadeIn" width="100%" alt="Header banner" />
 </p>
 
 <p align="center">
@@ -200,10 +200,13 @@ Standalone tools, each with real tests, CI, and a bilingual (EN/TR) README — n
   <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=KaanTuran28&color=00F0FF&style=flat&label=Profile+Views" alt="Profile Views" />
+---
+
+### 🖥️ boot log
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=2200&pause=800&color=8B949E&background=0D1117&center=true&vCenter=true&width=700&height=40&lines=Booting+kernel...+OK;Loading+recon+modules...+OK;Bypassing+rate+limits...+DENIED+%28as+expected%29;Initializing+coffee.service...+OK;Scanning+for+vulnerabilities...+found+bugs%2C+not+exploits;Access+granted.+Welcome." alt="Boot log" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer banner" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=KaanTuran28&color=00F0FF&style=flat&label=Profile+Views" alt="Profile Views" />
 </p>
