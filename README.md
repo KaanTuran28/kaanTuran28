@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F0FF&height=180&section=header&animation=fadeIn" width="100%" alt="Header banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=00F0FF&background=0D1117&center=false&vCenter=true&width=700&height=45&lines=whoami;identity%3A+classified;access_level%3A+root;the+code+speaks%2C+not+the+bio;sudo+make+me+a+coffee;200+OK+-+mostly+harmless;patching+bugs%2C+not+egos" alt="Typing SVG" />
 </p>
 
@@ -12,6 +16,10 @@ The repositories below do the talking.
   <img src="https://img.shields.io/badge/bugs_squashed-too_many_to_count-00F0FF?style=for-the-badge" alt="Bugs" />
   <img src="https://img.shields.io/badge/uptime-99.9%25_(mostly)-0A66C2?style=for-the-badge" alt="Uptime" />
   <img src="https://img.shields.io/badge/status-hacking_the_planet-success?style=for-the-badge" alt="Status" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,go,c,cpp,js,ts,nodejs,nextjs,django,flask,mysql,mongodb,postgres&theme=dark" alt="Skill Icons" />
 </p>
 
 ---
@@ -189,4 +197,8 @@ Standalone tools, each with real tests, CI, and a bilingual (EN/TR) README — n
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=KaanTuran28&color=00F0FF&style=flat&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer banner" />
 </p>
