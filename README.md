@@ -55,6 +55,94 @@ The repositories below do the talking.
 
 ---
 
+## 🛡️ Security Portfolio — 26 Independent Projects
+
+<p align="center">
+Standalone tools, each with real tests, CI, and a bilingual (EN/TR) README — not one repo with 26 scripts in it.
+</p>
+
+<details open>
+<summary><b>🤖 AI / LLM Security</b></summary>
+<br/>
+
+| Project | What it does |
+|---|---|
+| [LLM-Prompt-Injection-Test-Kit](https://github.com/KaanTuran28/LLM-Prompt-Injection-Test-Kit) | Runs a library of known prompt-injection payloads against an LLM target and reports leaked / blocked / needs-review. |
+| [LLM-Output-Guardrail](https://github.com/KaanTuran28/LLM-Output-Guardrail) | Scans LLM-generated text for PII, credential, and policy-violation leaks before it reaches a user. |
+| [JWT-Security-Analyzer](https://github.com/KaanTuran28/JWT-Security-Analyzer) | Decodes a JWT offline and flags `alg:none`, weak HMAC secrets, key-confusion headers, and more. |
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevSecOps</b></summary>
+<br/>
+
+| Project | What it does |
+|---|---|
+| [Cloud-IAM-Policy-Auditor](https://github.com/KaanTuran28/Cloud-IAM-Policy-Auditor) | Flags over-permissive AWS IAM policies and known privilege-escalation vectors. |
+| [Kubernetes-Manifest-Auditor](https://github.com/KaanTuran28/Kubernetes-Manifest-Auditor) | Audits K8s manifests for privileged containers, hostNetwork, dangerous capabilities, root. |
+| [Terraform-Security-Scanner](https://github.com/KaanTuran28/Terraform-Security-Scanner) | Scans Terraform files for public S3 buckets, open security groups, embedded secrets. |
+| [Dockerfile-Security-Linter](https://github.com/KaanTuran28/Dockerfile-Security-Linter) | Lints Dockerfiles for root users, unpinned base images, secrets baked into layers. |
+| [GitHub-Actions-Security-Auditor](https://github.com/KaanTuran28/GitHub-Actions-Security-Auditor) | Audits workflow YAML for script injection, unpinned actions, over-broad permissions. |
+
+</details>
+
+<details>
+<summary><b>🌐 Network & Web Security</b></summary>
+<br/>
+
+| Project | What it does |
+|---|---|
+| [Nginx-Config-Auditor](https://github.com/KaanTuran28/Nginx-Config-Auditor) | Runs a manual hardening checklist automatically over `nginx.conf`. |
+| [Web-Security-Header-Scanner](https://github.com/KaanTuran28/Web-Security-Header-Scanner) | Scores a live URL's HTTP security headers — like securityheaders.com, self-hosted. |
+| [CORS-Misconfiguration-Scanner](https://github.com/KaanTuran28/CORS-Misconfiguration-Scanner) | Tests a live URL for reflected-origin and null-origin CORS misconfigurations. |
+| [DNS-Security-Auditor](https://github.com/KaanTuran28/DNS-Security-Auditor) | Audits SPF/DMARC/CAA/DKIM posture with a DNS client built from raw sockets. |
+| [TLS-Certificate-Auditor](https://github.com/KaanTuran28/TLS-Certificate-Auditor) | Checks certificate expiry, protocol, and cipher suite via a real TLS handshake. |
+| [Subdomain-Takeover-Scanner](https://github.com/KaanTuran28/Subdomain-Takeover-Scanner) | Detects dangling-CNAME subdomain takeover risk. |
+| [Port-Scan-Reporter](https://github.com/KaanTuran28/Port-Scan-Reporter) | A dependency-free, pure-Python TCP port scanner with reporting. |
+| [Firewall-Rule-Auditor](https://github.com/KaanTuran28/Firewall-Rule-Auditor) | Statically audits `iptables-save` rulesets for risky rules. |
+
+</details>
+
+<details>
+<summary><b>🕵️ AppSec & Recon</b></summary>
+<br/>
+
+| Project | What it does |
+|---|---|
+| [Git-Secrets-Scanner](https://github.com/KaanTuran28/Git-Secrets-Scanner) | Scans a repo or directory for leaked API keys, tokens, private keys. |
+| [Python-Security-Code-Scanner](https://github.com/KaanTuran28/Python-Security-Code-Scanner) | AST-based static scanner for Python — a small, focused "Bandit-lite". |
+| [PII-Data-Leak-Scanner](https://github.com/KaanTuran28/PII-Data-Leak-Scanner) | DLP-style scan for emails, SSNs, credit cards, IBANs in exports and logs. |
+| [Password-Hygiene-Checker](https://github.com/KaanTuran28/Password-Hygiene-Checker) | Checks password strength and HIBP breach exposure without exposing the password. |
+| [Phishing-Email-Header-Analyzer](https://github.com/KaanTuran28/Phishing-Email-Header-Analyzer) | Scores `.eml` files for SPF/DKIM/DMARC failures and spoofing indicators. |
+
+</details>
+
+<details>
+<summary><b>🛡️ Blue Team / SOC</b></summary>
+<br/>
+
+| Project | What it does |
+|---|---|
+| [Log-Bruteforce-Detector](https://github.com/KaanTuran28/Log-Bruteforce-Detector) | Parses SSH `auth.log` for brute-force attempts and likely compromises. |
+| [Windows-Event-Log-Analyzer](https://github.com/KaanTuran28/Windows-Event-Log-Analyzer) | Analyzes an exported Windows Security Event Log for suspicious activity. |
+| [Wazuh-Detection-Rules-Kit](https://github.com/KaanTuran28/Wazuh-Detection-Rules-Kit) | Custom Wazuh detection rules, plus a rule validator and threat-hunting queries. |
+
+</details>
+
+<details>
+<summary><b>📊 Meta & Collections</b></summary>
+<br/>
+
+| Project | What it does |
+|---|---|
+| [Security-Findings-Aggregator](https://github.com/KaanTuran28/Security-Findings-Aggregator) | Merges JSON output from sibling scanners into one risk dashboard. |
+| [CTF-Writeup-Collection](https://github.com/KaanTuran28/CTF-Writeup-Collection) | A structured CTF / TryHackMe / HTB writeup collection with an auto-generated index. |
+
+</details>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
