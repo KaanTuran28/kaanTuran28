@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0A66C2&height=150&section=header&animation=fadeIn" width="100%" alt="Header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0B4F8A&height=150&section=header&animation=fadeIn" width="100%" alt="Header banner" />
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@ The repositories below do the talking.
 
 <p align="center">
   <img src="https://img.shields.io/badge/coffee_consumed-∞-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee" />
-  <img src="https://img.shields.io/badge/bugs_squashed-too_many_to_count-00F0FF?style=for-the-badge" alt="Bugs" />
-  <img src="https://img.shields.io/badge/uptime-99.9%25_(mostly)-0A66C2?style=for-the-badge" alt="Uptime" />
+  <img src="https://img.shields.io/badge/bugs_squashed-too_many_to_count-0B7285?style=for-the-badge" alt="Bugs" />
+  <img src="https://img.shields.io/badge/uptime-99.9%25_(mostly)-0B4F8A?style=for-the-badge" alt="Uptime" />
   <img src="https://img.shields.io/badge/status-hacking_the_planet-success?style=for-the-badge" alt="Status" />
 </p>
 
@@ -27,15 +27,15 @@ The repositories below do the talking.
 ## 🧠 Areas of Interest
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Application_%26_Network_Security-00F0FF?style=for-the-badge&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Penetration_Testing_%28Red_%26_Blue_Team%29-0A66C2?style=for-the-badge&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Malware_Analysis_%26_RE_%28Intro%29-00F0FF?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Application_%26_Network_Security-0B7285?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Penetration_Testing_%28Red_%26_Blue_Team%29-0B4F8A?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Malware_Analysis_%26_RE_%28Intro%29-0B7285?style=for-the-badge&logoColor=white" alt="" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/SOC_Automation_%26_Log_Analysis-0A66C2?style=for-the-badge&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/CTF_%26_Bug_Bounty-00F0FF?style=for-the-badge&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/AI_Security_%28emerging_focus%29-0A66C2?style=for-the-badge&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/Backend_%26_Automation_Scripts-00F0FF?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/SOC_Automation_%26_Log_Analysis-0B4F8A?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/CTF_%26_Bug_Bounty-0B7285?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/AI_Security_%28emerging_focus%29-0B4F8A?style=for-the-badge&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/Backend_%26_Automation_Scripts-0B7285?style=for-the-badge&logoColor=white" alt="" />
 </p>
 
 ---
@@ -166,19 +166,7 @@ Standalone tools, each with real tests, CI, and a bilingual (EN/TR) README — n
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaanTuran28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=0A66C2&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaanTuran28&hide_border=true&background=0D1117&border=30363D&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanTuran28&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaanTuran28&bg_color=0D1117&color=C9D1D9&line=00F0FF&point=00F0FF&area_color=0A66C2&title_color=00F0FF&border_color=30363D&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaanTuran28&hide_border=true&background=0D1117&border=30363D&ring=0B7285&fire=0B7285&currStreakLabel=0B7285&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 ---
@@ -194,10 +182,9 @@ Standalone tools, each with real tests, CI, and a bilingual (EN/TR) README — n
 
 ---
 
-### ☕ Random Dev Joke
+### 💬 Quote
 <p align="center">
-  <i>Refreshes on every visit — mostly harmless.</i><br/><br/>
-  <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Quote" />
 </p>
 
 ---
