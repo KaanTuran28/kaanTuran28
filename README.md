@@ -1,10 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=00F0FF&background=0D1117&center=false&vCenter=true&width=700&height=45&lines=whoami;identity%3A+classified;access_level%3A+root;the+code+speaks%2C+not+the+bio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1200&color=00F0FF&background=0D1117&center=false&vCenter=true&width=700&height=45&lines=whoami;identity%3A+classified;access_level%3A+root;the+code+speaks%2C+not+the+bio;sudo+make+me+a+coffee;200+OK+-+mostly+harmless;patching+bugs%2C+not+egos" alt="Typing SVG" />
 </p>
 
 <p align="center">
 Security-minded, code-driven — this profile stays intentionally quiet on the bio.<br/>
 The repositories below do the talking.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/coffee_consumed-∞-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee" />
+  <img src="https://img.shields.io/badge/bugs_squashed-too_many_to_count-00F0FF?style=for-the-badge" alt="Bugs" />
+  <img src="https://img.shields.io/badge/uptime-99.9%25_(mostly)-0A66C2?style=for-the-badge" alt="Uptime" />
+  <img src="https://img.shields.io/badge/status-hacking_the_planet-success?style=for-the-badge" alt="Status" />
 </p>
 
 ---
@@ -170,6 +177,14 @@ Standalone tools, each with real tests, CI, and a bilingual (EN/TR) README — n
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KaanTuran28/KaanTuran28/output/github-snake.svg" />
     <img src="https://raw.githubusercontent.com/KaanTuran28/KaanTuran28/output/github-snake.svg" alt="Snake" />
   </picture>
+</p>
+
+---
+
+### ☕ Random Dev Joke
+<p align="center">
+  <i>Refreshes on every visit — mostly harmless.</i><br/><br/>
+  <img src="https://readme-jokes.vercel.app/api" alt="Random Dev Joke" />
 </p>
 
 <p align="right">
