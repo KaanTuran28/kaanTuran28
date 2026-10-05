@@ -11,6 +11,8 @@ Security-minded, code-driven — this profile stays intentionally quiet on the b
 The repositories below do the talking.
 </p>
 
+<p align="center"><b><a href="#english">English</a></b> · <b><a href="#türkçe">Türkçe</a></b></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/coffee_consumed-∞-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee" />
   <img src="https://img.shields.io/badge/bugs_squashed-too_many_to_count-0B7285?style=for-the-badge" alt="Bugs" />
@@ -23,6 +25,8 @@ The repositories below do the talking.
 </p>
 
 ---
+
+## English
 
 ## 🧠 Areas of Interest
 
@@ -160,6 +164,54 @@ Standalone tools, each with real tests, CI, and a bilingual (EN/TR) README — n
 | [CTF-Writeup-Collection](https://github.com/KaanTuran28/CTF-Writeup-Collection) | A structured CTF / TryHackMe / HTB writeup collection with an auto-generated index. |
 
 </details>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://github.com/KaanTuran28"><img src="https://img.shields.io/badge/GitHub-KaanTuran28-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
+## Türkçe
+
+### 👋 Hakkımda
+
+Güvenlik odaklı, koddan beslenen biriyim — bu profil bilgi (bio) kısmında bilinçli
+olarak sessiz kalıyor; konuşmayı aşağıdaki depolara bırakıyorum. Odak noktam
+uygulama ve ağ güvenliği, sızma testi (Red & Blue Team) ve SOC/log otomasyonu;
+yükselen ilgi alanım ise yapay zekâ (AI) güvenliği.
+
+### 🧠 İlgi Alanları
+
+- Uygulama ve ağ güvenliği
+- Sızma testi (Red & Blue Team)
+- Zararlı yazılım analizi ve tersine mühendislik (giriş)
+- SOC otomasyonu ve log analizi
+- CTF ve Bug Bounty
+- Yapay zekâ (AI) güvenliği (yükselen odak)
+- Backend ve otomasyon scriptleri
+
+### 💻 Teknolojiler
+
+Linux/Kali, Python, Go, C/C++, JavaScript/TypeScript; web tarafında Node.js,
+Next.js, Django ve Flask; veri tarafında MySQL, MongoDB, PostgreSQL ve Supabase.
+Güvenlik araç setinde Wireshark, Burp Suite, Metasploit, OWASP ve TryHackMe.
+(Ayrıntılı rozetler için yukarıdaki **Tech Stack** bölümüne bakın.)
+
+### 🛡️ Güvenlik Portföyü
+
+Her biri gerçek testleri, CI'ı ve iki dilli (EN/TR) README'si olan **26 bağımsız
+araç** — tek bir repoda 26 script değil, ayrı ayrı projeler. Tam liste için
+yukarıdaki **Security Portfolio** bölümüne bakın.
+
+### 📫 İletişim
+
+<p align="center">
+  <a href="https://github.com/KaanTuran28"><img src="https://img.shields.io/badge/GitHub-KaanTuran28-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
