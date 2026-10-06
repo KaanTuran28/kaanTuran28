@@ -79,6 +79,19 @@ The repositories below do the talking.
 
 ---
 
+## ⭐ Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🕸️ [CTI_Scrapper_3](https://github.com/KaanTuran28/CTI_Scrapper_3) | Dark-web threat-intelligence platform: collects data from `.onion` sources on its own, scores it with regex and heuristic engines, and shows it on a SOC dashboard. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-7E4798?style=flat-square&logo=torproject&logoColor=white) |
+| 🧅 [CTI_Scrapper_2](https://github.com/KaanTuran28/CTI_Scrapper_2) | "Thor Scraper" — watches `.onion` sites through a Tor SOCKS5 proxy, checks reachability and saves screenshots as evidence. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-7E4798?style=flat-square&logo=torproject&logoColor=white) |
+| 🗺️ [TRIA](https://github.com/KaanTuran28/TRIA) | OSINT + GIS platform for public-safety incidents in Turkey: open-source news → LLM structuring → PostGIS → live map. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| 👣 [Digital-Footprint-Checker](https://github.com/KaanTuran28/Digital-Footprint-Checker) | OSINT tool that checks public social-media profiles for exposed personal data and gives a risk score. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![OSINT](https://img.shields.io/badge/OSINT-0B4F8A?style=flat-square) |
+| 🕵️ [Dedektif_App](https://github.com/KaanTuran28/Dedektif_App) | "ŞÜPHELİ" — a multi-case detective / murder-mystery game, installable as a PWA. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
+| 🔄 [Donusturucu](https://github.com/KaanTuran28/Donusturucu) | Desktop app that converts documents, images, audio and video between formats. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) |
+
+---
+
 ## 🛡️ Security Portfolio — 26 Independent Projects
 
 <p align="center">
@@ -167,14 +180,6 @@ Standalone tools, each with real tests, CI, and a bilingual (EN/TR) README — n
 
 ---
 
-## 📫 Contact
-
-<p align="center">
-  <a href="https://github.com/KaanTuran28"><img src="https://img.shields.io/badge/GitHub-KaanTuran28-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
----
-
 ## Türkçe
 
 ### 👋 Hakkımda
@@ -200,6 +205,17 @@ Linux/Kali, Python, Go, C/C++, JavaScript/TypeScript; web tarafında Node.js,
 Next.js, Django ve Flask; veri tarafında MySQL, MongoDB, PostgreSQL ve Supabase.
 Güvenlik araç setinde Wireshark, Burp Suite, Metasploit, OWASP ve TryHackMe.
 (Ayrıntılı rozetler için yukarıdaki **Tech Stack** bölümüne bakın.)
+
+### ⭐ Öne Çıkan Projeler
+
+| Proje | Ne yapar | Teknoloji |
+|---|---|---|
+| 🕸️ [CTI_Scrapper_3](https://github.com/KaanTuran28/CTI_Scrapper_3) | Dark web tehdit istihbaratı platformu: `.onion` kaynaklarından otonom veri toplar, regex ve sezgisel motorlarla puanlar, sonuçları bir SOC panosunda gösterir. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-7E4798?style=flat-square&logo=torproject&logoColor=white) |
+| 🧅 [CTI_Scrapper_2](https://github.com/KaanTuran28/CTI_Scrapper_2) | "Thor Scraper" — `.onion` sitelerini Tor SOCKS5 proxy üzerinden izler, erişilebilirliği kontrol eder ve kanıt olarak ekran görüntüsü kaydeder. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Tor](https://img.shields.io/badge/Tor-7E4798?style=flat-square&logo=torproject&logoColor=white) |
+| 🗺️ [TRIA](https://github.com/KaanTuran28/TRIA) | Türkiye'deki asayiş olayları için OSINT + CBS platformu: açık kaynak haberler → büyük dil modeliyle yapılandırma → PostGIS → canlı harita. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| 👣 [Digital-Footprint-Checker](https://github.com/KaanTuran28/Digital-Footprint-Checker) | Herkese açık sosyal medya profillerinde açığa çıkmış kişisel verileri tarayıp risk puanı veren bir OSINT aracı. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![OSINT](https://img.shields.io/badge/OSINT-0B4F8A?style=flat-square) |
+| 🕵️ [Dedektif_App](https://github.com/KaanTuran28/Dedektif_App) | "ŞÜPHELİ" — PWA olarak kurulabilen, çok vakalı bir dedektif / cinayet çözme oyunu. | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white) |
+| 🔄 [Donusturucu](https://github.com/KaanTuran28/Donusturucu) | Belge, görsel, ses ve video dosyalarını birbirine dönüştüren masaüstü uygulaması. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) |
 
 ### 🛡️ Güvenlik Portföyü — 26 Bağımsız Proje
 
@@ -286,12 +302,6 @@ Her biri gerçek testleri, CI'ı ve iki dilli (EN/TR) README'si olan bağımsız
 | [CTF-Writeup-Collection](https://github.com/KaanTuran28/CTF-Writeup-Collection) | Otomatik oluşturulan bir dizine sahip, düzenli bir CTF / TryHackMe / HTB çözüm yazıları koleksiyonu. |
 
 </details>
-
-### 📫 İletişim
-
-<p align="center">
-  <a href="https://github.com/KaanTuran28"><img src="https://img.shields.io/badge/GitHub-KaanTuran28-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
 
 ---
 
