@@ -201,11 +201,91 @@ Next.js, Django ve Flask; veri tarafında MySQL, MongoDB, PostgreSQL ve Supabase
 Güvenlik araç setinde Wireshark, Burp Suite, Metasploit, OWASP ve TryHackMe.
 (Ayrıntılı rozetler için yukarıdaki **Tech Stack** bölümüne bakın.)
 
-### 🛡️ Güvenlik Portföyü
+### 🛡️ Güvenlik Portföyü — 26 Bağımsız Proje
 
-Her biri gerçek testleri, CI'ı ve iki dilli (EN/TR) README'si olan **26 bağımsız
-araç** — tek bir repoda 26 script değil, ayrı ayrı projeler. Tam liste için
-yukarıdaki **Security Portfolio** bölümüne bakın.
+<p align="center">
+Her biri gerçek testleri, CI'ı ve iki dilli (EN/TR) README'si olan bağımsız araçlar — tek bir repoda 26 script değil.
+</p>
+
+<details open>
+<summary><b>🤖 Yapay Zekâ / LLM Güvenliği</b></summary>
+<br/>
+
+| Proje | Ne yapar |
+|---|---|
+| [LLM-Prompt-Injection-Test-Kit](https://github.com/KaanTuran28/LLM-Prompt-Injection-Test-Kit) | Bilinen prompt-injection yüklerinden oluşan bir kütüphaneyi bir LLM hedefine karşı çalıştırır; sonuçları sızdı / engellendi / incelenmeli olarak raporlar. |
+| [LLM-Output-Guardrail](https://github.com/KaanTuran28/LLM-Output-Guardrail) | LLM'in ürettiği metni kullanıcıya ulaşmadan önce kişisel veri (PII), kimlik bilgisi ve politika ihlali sızıntılarına karşı tarar. |
+| [JWT-Security-Analyzer](https://github.com/KaanTuran28/JWT-Security-Analyzer) | Bir JWT'yi çevrimdışı çözer; `alg:none`, zayıf HMAC anahtarları, anahtar karışıklığı (key confusion) başlıkları gibi sorunları işaretler. |
+
+</details>
+
+<details>
+<summary><b>☁️ Bulut ve DevSecOps</b></summary>
+<br/>
+
+| Proje | Ne yapar |
+|---|---|
+| [Cloud-IAM-Policy-Auditor](https://github.com/KaanTuran28/Cloud-IAM-Policy-Auditor) | Aşırı yetkili AWS IAM politikalarını ve bilinen yetki yükseltme yollarını işaretler. |
+| [Kubernetes-Manifest-Auditor](https://github.com/KaanTuran28/Kubernetes-Manifest-Auditor) | K8s manifestlerini ayrıcalıklı konteyner, hostNetwork, tehlikeli yetenekler (capabilities) ve root kullanımı açısından denetler. |
+| [Terraform-Security-Scanner](https://github.com/KaanTuran28/Terraform-Security-Scanner) | Terraform dosyalarında herkese açık S3 bucket'ları, açık güvenlik gruplarını ve gömülü gizli bilgileri tarar. |
+| [Dockerfile-Security-Linter](https://github.com/KaanTuran28/Dockerfile-Security-Linter) | Dockerfile'ları root kullanıcı, sürümü sabitlenmemiş temel imajlar ve katmanlara gömülmüş gizli bilgiler açısından denetler. |
+| [GitHub-Actions-Security-Auditor](https://github.com/KaanTuran28/GitHub-Actions-Security-Auditor) | Workflow YAML dosyalarını script enjeksiyonu, sürümü sabitlenmemiş action'lar ve gereğinden geniş izinler açısından denetler. |
+
+</details>
+
+<details>
+<summary><b>🌐 Ağ ve Web Güvenliği</b></summary>
+<br/>
+
+| Proje | Ne yapar |
+|---|---|
+| [Nginx-Config-Auditor](https://github.com/KaanTuran28/Nginx-Config-Auditor) | Elle yapılan sıkılaştırma (hardening) kontrol listesini `nginx.conf` üzerinde otomatik çalıştırır. |
+| [Web-Security-Header-Scanner](https://github.com/KaanTuran28/Web-Security-Header-Scanner) | Canlı bir URL'nin HTTP güvenlik başlıklarını puanlar — securityheaders.com gibi, ama kendi sunucunda. |
+| [CORS-Misconfiguration-Scanner](https://github.com/KaanTuran28/CORS-Misconfiguration-Scanner) | Canlı bir URL'yi yansıtılan origin ve null origin CORS yapılandırma hatalarına karşı test eder. |
+| [DNS-Security-Auditor](https://github.com/KaanTuran28/DNS-Security-Auditor) | Ham soketlerle yazılmış bir DNS istemcisiyle SPF/DMARC/CAA/DKIM durumunu denetler. |
+| [TLS-Certificate-Auditor](https://github.com/KaanTuran28/TLS-Certificate-Auditor) | Gerçek bir TLS el sıkışmasıyla sertifika süresini, protokolü ve şifre takımını (cipher suite) kontrol eder. |
+| [Subdomain-Takeover-Scanner](https://github.com/KaanTuran28/Subdomain-Takeover-Scanner) | Sahipsiz (dangling) CNAME kaynaklı alt alan adı ele geçirme riskini tespit eder. |
+| [Port-Scan-Reporter](https://github.com/KaanTuran28/Port-Scan-Reporter) | Bağımlılıksız, saf Python ile yazılmış, raporlama yapan bir TCP port tarayıcı. |
+| [Firewall-Rule-Auditor](https://github.com/KaanTuran28/Firewall-Rule-Auditor) | `iptables-save` kural setlerini riskli kurallar için statik olarak denetler. |
+
+</details>
+
+<details>
+<summary><b>🕵️ Uygulama Güvenliği ve Keşif</b></summary>
+<br/>
+
+| Proje | Ne yapar |
+|---|---|
+| [Git-Secrets-Scanner](https://github.com/KaanTuran28/Git-Secrets-Scanner) | Bir repoyu veya klasörü sızdırılmış API anahtarı, token ve özel anahtarlara karşı tarar. |
+| [Python-Security-Code-Scanner](https://github.com/KaanTuran28/Python-Security-Code-Scanner) | Python için AST tabanlı statik tarayıcı — küçük ve odaklı bir "Bandit-lite". |
+| [PII-Data-Leak-Scanner](https://github.com/KaanTuran28/PII-Data-Leak-Scanner) | Dışa aktarımlarda ve loglarda e-posta, SSN, kredi kartı ve IBAN arayan DLP tarzı bir tarayıcı. |
+| [Password-Hygiene-Checker](https://github.com/KaanTuran28/Password-Hygiene-Checker) | Şifreyi açığa çıkarmadan şifre gücünü ve HIBP sızıntı durumunu kontrol eder. |
+| [Phishing-Email-Header-Analyzer](https://github.com/KaanTuran28/Phishing-Email-Header-Analyzer) | `.eml` dosyalarını SPF/DKIM/DMARC hataları ve sahtecilik (spoofing) belirtileri açısından puanlar. |
+
+</details>
+
+<details>
+<summary><b>🛡️ Blue Team / SOC</b></summary>
+<br/>
+
+| Proje | Ne yapar |
+|---|---|
+| [Log-Bruteforce-Detector](https://github.com/KaanTuran28/Log-Bruteforce-Detector) | SSH `auth.log` dosyasını kaba kuvvet (brute-force) denemeleri ve olası ele geçirmeler için ayrıştırır. |
+| [Windows-Event-Log-Analyzer](https://github.com/KaanTuran28/Windows-Event-Log-Analyzer) | Dışa aktarılmış bir Windows Güvenlik Olay Günlüğünü şüpheli etkinlikler için analiz eder. |
+| [Wazuh-Detection-Rules-Kit](https://github.com/KaanTuran28/Wazuh-Detection-Rules-Kit) | Özel Wazuh tespit kuralları, bir kural doğrulayıcı ve tehdit avı (threat hunting) sorguları. |
+
+</details>
+
+<details>
+<summary><b>📊 Toplayıcı ve Koleksiyonlar</b></summary>
+<br/>
+
+| Proje | Ne yapar |
+|---|---|
+| [Security-Findings-Aggregator](https://github.com/KaanTuran28/Security-Findings-Aggregator) | Kardeş tarayıcıların JSON çıktılarını tek bir risk panosunda birleştirir. |
+| [CTF-Writeup-Collection](https://github.com/KaanTuran28/CTF-Writeup-Collection) | Otomatik oluşturulan bir dizine sahip, düzenli bir CTF / TryHackMe / HTB çözüm yazıları koleksiyonu. |
+
+</details>
 
 ### 📫 İletişim
 
